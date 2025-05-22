@@ -48,3 +48,12 @@ This repository is created and maintained by Ayyappadas Rajagopal
 - Surface finish and strength may require post-processing.
 
 3D printing continues to evolve, pushing the boundaries of design and manufacturing across industries. Its versatility and accessibility are transforming how products are conceived, developed, and produced.
+
+
+
+## 3D Printers (Example)
+
+### 1. Bambu labs
+- 3D printer manufcturer
+- Bambu studio as 3D printing slicing software
+- Webiste : https://bambulab.com/en-in/download/studio
