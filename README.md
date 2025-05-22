@@ -57,3 +57,5 @@ This repository is created and maintained by Ayyappadas Rajagopal
 - 3D printer manufcturer
 - Bambu studio as 3D printing slicing software
 - Webiste : https://bambulab.com/en-in/download/studio
+
+![Bambu labs x1 series_3d Printer image](image.png)
