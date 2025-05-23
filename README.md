@@ -74,7 +74,7 @@ This repository is created and maintained by Ayyappadas Rajagopal
 
 ## From ultimaker
 1. Ultimaker cura
--https://ultimaker.com/software/ultimaker-cura/
+[cura-website](https://ultimaker.com/software/ultimaker-cura/)
 
 
 
