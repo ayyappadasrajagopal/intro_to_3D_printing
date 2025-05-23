@@ -61,10 +61,28 @@ This repository is created and maintained by Ayyappadas Rajagopal
 ![Bambu labs x1 series_3d Printer image](image.png)
 
 #### Softwares
+
+### From bambu labs
+
 1. Bambu Handy - Android
 - Bambu Handy app is a one-stop 3D printing service platform designed to offer a convenient, seamless, and enjoyable 3D printing experience. With Bambu Handy, you can control printers anywhere, connect to the MakerWorld models library, and print your favorite designs easily!
 2. Bambu Suite - PC
 - Bambu Suite is an intuitive and powerful software that supports laser cutting, blade cutting, pen drawing and so much more. From design and layout to final production, the entire process is seamlessly integrated into a single workflow. Its user-friendly interface and smart guidance make operation easy, while computer-vision-based alignment ensures precision and efficiency at every step, what-you-see-is-what-you-get.
 
 3. Bambu Studio - PC
-- Bambu Studio is an open-source, cutting-edge, feature-rich slicing software. It contains project-based workflows, systematically optimized slicing algorithms, and an easy-to-use graphical interface, bringing users an incredibly smooth printing experience. 
+- Bambu Studio is an open-source, cutting-edge, feature-rich slicing software. It contains project-based workflows, systematically optimized slicing algorithms, and an easy-to-use graphical interface, bringing users an incredibly smooth printing experience.
+
+## From ultimaker
+1. Ultimaker cura
+-https://ultimaker.com/software/ultimaker-cura/
+
+
+
+
+
+
+
+
+
+
+
