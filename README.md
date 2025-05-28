@@ -80,9 +80,10 @@ This repository is created and maintained by Ayyappadas Rajagopal
 
 
 
+### Customize 3D models:Makers world - 
+- [web 1](https://makerworld.com/en/models/1055250-screw-generator-parametric-screws-nuts-washer#profileId-1042636)
+- [web 2](https://makerworld.com/en/makerlab/parametricModelMaker?designId=1055250&from=model_page&modelName=Screw+Generator.scad&scadUrl=https%3A%2F%2Fmakerworld.bblmw.com%2Fmakerworld%2Fmodel%2FUS4c3761813497f0%2Fmsfile%2F2025-02-15_caf8c26e678e4.scad%3Fat%3D1748407675%26exp%3D1748407975%26key%3D8bf28773cb168db76fbb3280b6ccfba4%26uid%3D740845135&unikey=fd7fa4bc-e4cd-4d3b-8854-33fb6d9384a4)
 
-
-
-
+- Note: every model configurable or not needs to be checked.
 
 
